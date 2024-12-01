@@ -148,7 +148,7 @@ body {
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
   position: absolute;
   left: 50%;
-  transform: translateX(-50%) translateY(65px);
+  transform: translateX(-50%) translateY(90px);
 }
 
 .home .heart i {
